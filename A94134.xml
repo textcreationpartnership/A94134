@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hands of God: or King Davids choice, vvherein are proved: 1. That the least of evills is to be chosen. 2. That war is the worst of evills. 3. That the relation betwixt the king and subject, is the nearest of all relations. 4. That rebells are the worst of men. / As is was delivered in a sermon, By T.S. D.D.</title>
+            <author>Swadlin, Thomas, 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94134</idno>
+            <idno type="STC">Wing S6216</idno>
+            <idno type="STC">Thomason E441_28</idno>
+            <idno type="STC">ESTC R204941</idno>
+            <idno type="EEBO-CITATION">99864388</idno>
+            <idno type="PROQUEST">99864388</idno>
+            <idno type="VID">130640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130640)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hands of God: or King Davids choice, vvherein are proved: 1. That the least of evills is to be chosen. 2. That war is the worst of evills. 3. That the relation betwixt the king and subject, is the nearest of all relations. 4. That rebells are the worst of men. / As is was delivered in a sermon, By T.S. D.D.</title>
+                  <author>Swadlin, Thomas, 1600-1670.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.S. = Thomas Swadlin.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May. 11th"; the imprint the year has been corrected in MS to 1648.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XXIV, 14 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130640:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Hands of God:</hi> OR KING DAVIDS CHOICE, VVherein are proved:
+<list>
+                  <item>1. <hi>That the leaſt of evills is to be choſen.</hi>
+                  </item>
+                  <item>2. <hi>That war is the worſt of evills.</hi>
+                  </item>
+                  <item>3. <hi>That the Relation betwixt the King and Subject, is the neareſt of all Relations.</hi>
+                  </item>
+                  <item>4. <hi>That Rebells are the worſt of men.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>As it was delivered in a Sermon,</p>
+            <p>By <hi>T.S. D.D.</hi>
+            </p>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:130640:2"/>
+            <pb facs="tcp:130640:2"/>
+            <head>TO MY HONOVRED FRIENDS, SIR <hi>GEORGE CRAHAM,</hi> AND HIS VERTUOUS LADY, THE LADY <hi>ALICIA CRAHAM.</hi>
+            </head>
+            <opener>
+               <salute>Sir, Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OVR deſires are Commands, and have therefore the Obedi<g ref="char:EOLhyphen"/>ence of</p>
+            <closer>
+               <signed>
+                  <hi>Your humble Servant,</hi> Thomas Swadlin.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:130640:3"/>
+            <pb n="1" facs="tcp:130640:3"/>
+            <head>The Hands of God.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. SAM. 24.14.</hi>
+                  </bibl>
+                  <p>Let us now fall into the Hands of God (For with the Lord is mercy, or, The Mercies of God are great,) but not in<g ref="char:EOLhyphen"/>to the Hands of Men.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is a Theme of humiliation, This is; ſo the verſe begins, <hi>ſupra modum angor, I am in a great ſtrayte:</hi> Had it pleaſed ſome men of this Kingdome to have followed King <hi>Davids</hi> courſe, and conſidered with themſelves ſix or ſeaven yeares agoe, Whether had beene better, by Petition to redreſſe our preſumed grievances, or, by the Sword to remove ſome pretended evill Counſellors, wee had not beene put to this After-game with God; that innocence would have kept us on our legs; now our repentance muſt reſtore us to our legs; and ſo it will, I doubt not, if wee will obſerve and doe the Parts and Reſolves of this Text, of this humble Text: The Parts two, The Reſolves foure.</p>
+            <p n="1">1. We have here a ſupplication, <hi>Incidamus in manus Domini,</hi> Let us now fall into the hands of God; This gives up the firſt Reſolve, and tells us, <hi>E malis minimum,</hi>
+               <note place="margin">Diviſion.</note> that of Evils, the leaſt is to be choſen.</p>
+            <pb n="2" facs="tcp:130640:4"/>
+            <p n="2">2. Wee have here a Deprecation, <hi>In manus hominum ne incidamus,</hi> Let us not fall into the Hands of men, This gives up the ſecond Reſolve, and tells us, <hi>Emalis maxi<g ref="char:EOLhyphen"/>mum,</hi> that of all evills, Warre is the greateſt.</p>
+            <p>Each of theſe parts hath his reaſon; I ſhall account them for parts in my diſcourſe, and ſo I pray doe yee; ſo ſhall you have an equality of Parts and Reſolves, foure, and foure.</p>
+            <p n="3">3. The reaſon of the former is expreſſed; <hi>Let us now fall into the hands of God; Miſerationes enim cum eo,</hi> or, <hi>Miſericordiae Dei multae;</hi> For there are mercies with God, or, the mercies of God are great: This gives up the third Reſolve, and ſhewes us <hi>Relatorum proximum, That of all relations, that betwixt the King and ſubject is the neareſt.</hi>
+            </p>
+            <p n="4">4. The reaſon of the latter is implyed; <hi>Let us not fall in<g ref="char:EOLhyphen"/>to the hands of men, Crudeles enim ſunt, Sacrilegae enim ſunt; For their hands are cruell hands; For their hands are Sacrilegious hands:</hi> This gives up the fourth Reſolve, and points out <hi>V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rorum peſſimum,</hi> the worſt ſort of Men,</p>
+            <p>When I have unfolded theſe particulers by way of ex<g ref="char:EOLhyphen"/>plication, I finde my ſelfe bound by my Text to give you a double Application.</p>
+            <p n="1">1. <hi>
+                  <g ref="char:V">Ʋ</g>t in manus hominum incidimus,</hi> How and by what meanes we are fallen into the hands of men? into their cruell hands, into their Sacrilegious hands; and this will be Inquiſitive.</p>
+            <p n="2">2. <hi>
+                  <g ref="char:V">Ʋ</g>t in manus Dei incidamus,</hi> How wee may againe fall into Gods hands, into his mercifull hands? and this will be Exhortative.
+<note place="margin">
+                  <hi>Pars</hi> 1.</note>
+            </p>
+            <p>I begin with the firſt, the Supplication; <hi>Incidamus in manus Domini, Let us Now fall into the hands of God: Now,</hi> ſo our tranſlation reades it, and ſo the purer Co<g ref="char:EOLhyphen"/>pie will beate it, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncidamus, Let us fall, i. e.</hi> Let us <hi>Now</hi> fall; for it is the preſent tenſe: And it was then, and I would to God it were <hi>Now</hi> preſently to be done.</p>
+            <pb n="3" facs="tcp:130640:4"/>
+            <p>But though ſo, why <hi>Now?</hi> why not rather, <hi>Let us ever fall into Gods hands?</hi> yes, let us <hi>ever</hi> fall into Gods hands, ſo King <hi>David</hi> intended; but <hi>Now</hi> eſpecially, ſo King <hi>David</hi> deſired.</p>
+            <p>
+               <hi>Now,</hi> that my young Subjects have forgot the curſed counſell of <hi>Achitophel,</hi> and the bloody ſword, and the unnaturall conſpiracy of <hi>Abſolon: Now,</hi> that my old Subjects are afraid of an enemy from abroad, and of a ſcarcity at home: <hi>Now,</hi> that my young Cavalry preſume upon their owne ſtrength and gallantry, and dare meete the inſulting enemy in the field: <hi>Now,</hi> that my old Se<g ref="char:EOLhyphen"/>nators deſpaire under their owne weakeneſſe and infir<g ref="char:EOLhyphen"/>mity, and dare not looke the Rebell-enemy in the face: <hi>Now,</hi> that there is but a ſtep betwixt us and death, and God will puniſh us all; you for your paſt Rebellion, and my ſelfe for my preſent preſumption: <hi>Now,</hi> rather then into the Hands of men, let us fall into the hands of God.</p>
+            <p>This article of Time, in reſpect of King <hi>Davids</hi> op<g ref="char:EOLhyphen"/>tion, reflects onely upon his preſent election, of Famine, Plague, or Warre; yet becauſe his thirſt after his Sub<g ref="char:EOLhyphen"/>jects good was eminent in the whole courſe of his Reigne, as well in the ſerene and calme dayes of peace, as in the boyſtrous and ſtormy nights of Warre, I beleeve I ſhall not erre, if I take leave to beleeve, that he intended this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as a perpetuall rule of Divinity for the young<g ref="char:EOLhyphen"/>eſt and eldeſt in his Kingdome; and tells them,</p>
+            <p>That though they were 130000. ſtrong, of men fit for Warre, beſides children, and youth, and aged; yet for all that they ſhould not preſume; for God could as he plea<g ref="char:EOLhyphen"/>ſed, tame them and cut them off: And though they were diminiſhed, of that numerous Army, even to one Cypher, why yet neither ſhould they diſpaire, for God could, if he pleaſed,
+<note place="margin">de vit. pat.</note> helpe and ſave them as well by few as by ma<g ref="char:EOLhyphen"/>ny. So Saint <hi>Auguſtine, Nè deſperando augeamus peccata, propoſitus eſt paenitentiae portus;</hi> Let us not make up the meaſure of our ſinnes, and fit our ſelves for deſtruction
+<pb n="4" facs="tcp:130640:5"/>by cowardize and deſperation: Nor is this any way to en<g ref="char:EOLhyphen"/>courage preſumption, but only to allay the other extream; ſo the ſame Father againe; <hi>Rurſus nè sperando augeamus peccata, poſitus eſt dies mortis incertus;</hi> neither let us make up the meaſure of our ſins, and fit our ſelves for deſtructi<g ref="char:EOLhyphen"/>on by precipitancy and preſumption; but <hi>Now,</hi> while we have time, and <hi>Now,</hi> though wee have but this time, let you and I, both yong men and Maidens, old men and chil<g ref="char:EOLhyphen"/>dren, take out the firſt letter from each ſcene of our age, from <hi>Puer, P.</hi> from <hi>Iuvenis, I.</hi> from <hi>Vir, V.</hi> from <hi>Senex, S.</hi> and that will make us what wee ſhould be, <hi>Pius,</hi> and fit for the beſt of choyces, <hi>To fall into the hands of God.</hi>
+            </p>
+            <p>This yet, though the beſt of choyces, muſt be warily read, and as warily underſtood, elſe wee ſhall fall into er<g ref="char:EOLhyphen"/>rour, if not into Hereſie; for ſo were the <hi>Anthropomor<g ref="char:EOLhyphen"/>phites</hi> branded, and to this day for Hereticks they goe, be<g ref="char:EOLhyphen"/>cauſe from ſuch places of Scripture as this, <hi>The hands of God,</hi> they preſently concluded, God had a body, and all the organs and inſtruments of a body.</p>
+            <p>From which Errour, or Hereſie rather have the Papiſts, as I imagine, drawen their idolatrous imagerie of pain<g ref="char:EOLhyphen"/>ting God the Father in the Image of an old man, and his Son Chriſt like a little childe in his hands.</p>
+            <p>But if. God hath not hands of fleſh and blood as wee have, what hands hath he then? And how is it heere ſaied, let us fall into the hands of God?</p>
+            <p>Why you muſt underſtand this, and all ſuch paſſages in St <hi>Bernards</hi> Catholique anſwer, <hi>Omnia haec habet Deus, &amp; nulla horum habet Deus,</hi> God hath a body, and all the or<g ref="char:EOLhyphen"/>gans of a body; God hath not a body, nor any inſtru<g ref="char:EOLhyphen"/>ment of a body, <hi>Effectu habet, Eſſentiâ non habet; Eſſenti<g ref="char:EOLhyphen"/>ally</hi> he hath none of theſe things, <hi>Effectually</hi> he hath them all.</p>
+            <p>To let paſſe all other, as not to our preſent purpoſe; what is the effect of the hand? Why in relation to man, the ef<g ref="char:EOLhyphen"/>fect of the hand is ſafety and protection; ſo wee ſay, and wee ſay true in ſo ſaying, a Bird in the hand is worth two
+<pb n="5" facs="tcp:130640:5"/>in the buſh, and one ſoule in the hands of God is better then 20 or 20000 ſoules out of his hands; ſo long as my childe is in mine owne hands, or my wives, or my ſervants, he is ſafe enough from falling; but if once wee put him out of our hands, and truſt him to the ſtrength of his own weake legges, poore foole, by and by he gets a fall, and breakes his face; ſo long as our ſoules are in <hi>Gods hands,</hi> they are for all the world as he made them, pure and up<g ref="char:EOLhyphen"/>right; but if once he put them out of his hands, as God forbid he ſhould, or if once wee pull them out of his hands, as God forgive us for it, wee too too often doe, why then by and by wee finde out many inventions, as the wiſe man ſpeakes, and breake the face of our ſoules.
+<note place="margin">Eccles. 7.29.</note>
+            </p>
+            <p>More particularly and properly in relation to God; his hands ſignifie ſometimes: 1. His eternall Counſell, ſo there; <hi>To doe whatſoever thy hand had determined:</hi>
+               <note place="margin">Act. 4.28.</note> His hand and Counſell all one there: Sometimes, 2. His actu<g ref="char:EOLhyphen"/>all power; ſo there againe;
+<note place="margin">Act. 4.30.</note> 
+               <hi>Stretch out thine hand to heale and to doe wonders;</hi> his hand and power all one there:
+<note place="margin">Pſ. 104.28.</note> Sometimes, 3. Benediction, ſo there; <hi>Thou openeſt thy hand and filleſt all things living with plenty;</hi>
+               <note place="margin">Pſa 32.4.</note> hand and plenty all one there: Sometimes. 4. Affliction, ſo there; <hi>Thy hand was heavy upon me day and night;</hi> hand and heavineſſe all one there; and ſo here; <hi>Let us now fall into the hands of God; i. e.</hi> our ſinnes call for affliction, and let God afflict us: our Church prayer in reference to this text excellent<g ref="char:EOLhyphen"/>ly, when thou wilt correct us for our ſinnes O Lord, in judgement remember mercy, and let us fall into thy hands and not into the hands of men.</p>
+            <p>I might give you more ſignifications, and tell you of a <hi>manus dextra,</hi> and a <hi>manus ſiniſtra,</hi> of a <hi>manus ſanans,</hi> and a <hi>manus ſaeviens,</hi> of a right and left hand, of a ſaving and deſtroying hand, and many more; but this is the faireſt and ſhorteſt conſtruction of Gods hands, as they referre to this Text.</p>
+            <p>And heere I admire at King Davids wiſdome, and at Davids piety. I. His wiſdome in making a virtue of ne<g ref="char:EOLhyphen"/>ceſſity:
+<pb n="6" facs="tcp:130640:6"/>2. His Piety, in ſubmitting himſelfe equally with his Subjects to an impartiall miſery: 1. His wiſedome ap<g ref="char:EOLhyphen"/>peares, in that he made choyce of what he could not ſhun; He knew he muſt into Gods hands, what choice ſoever he made; and ſo muſt wee: Naturally we muſt, and Le<g ref="char:EOLhyphen"/>gally wee muſt: Firſt, by the courſe of Nature all things tend unto their owne Centre, and therefore ſayes Saint <hi>Auſtin, A te Domine ſumus, &amp; irrequietum eſt cor noſtrum donec in te revertamur,</hi> we are from thee O Lord, and wee are reſtleſſe untill wee are with thee againe: Secondly, by the courſe of Law too, every thing muſt to his proper owner,
+<note place="margin">Pſ.</note> and ſayes King <hi>David,</hi> Thy hands have made me and faſhioned me,</p>
+            <p>Our ſoules are from Gods hands, and into Gods hands they muſt againe, firſt or laſt; from him wee had them cleane and holy, and they muſt not be the worſe for our wearing; from his hands as white as ſilver and pure as gold, we may not dawbe them with Mercury, till they be as blacke as a coale, and ugly as a Toad: from his hands as chaſte as <hi>Suſanna,</hi>
+               <note place="margin">S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſan. 1.2 3.</note> when ſhee refuſed the Elders, we may not make them foule and impudent as <hi>Potiphars</hi> Wife when ſhee enticed <hi>Joſeph;</hi>
+               <note place="margin">Gen 39 9.</note> from his hands as ſober as <hi>Noah</hi> before he diſcovered his owne nakedneſſe,
+<note place="margin">Gen. 9.</note> wee may not make them drunken as <hi>Lot,</hi> when he uncovered his daughters nakedneſſe:
+<note place="margin">Gen. 19 33.</note> from his hands as conſtant as <hi>Joſhua</hi> when he ſtood to his firſt Covenant with the men of <hi>Gibeon,</hi>
+               <note place="margin">Joſh, 9.19.</note> wee may not make them perjured as thoſe Jewes,
+<note place="margin">Hoſea. 10.</note> who made a Covenant in ſweareing falſly, we have no King, for what good can a King doe us?</p>
+            <p>No, God forbid, In ſuch a pickle, they will never into Gods hands;
+<note place="margin">Mat 25.30.41</note> never to his right hand amongſt the ſheep to goe into everlaſting life; but to the left hand amongſt the Goats, to depart into everlaſting fire: From which that you may be preſerved, be you perſwaded to intreat God, that you may fall into his hands, his hands of ſan<g ref="char:EOLhyphen"/>ctification, to keepe you from ſinne, his hands of protecti<g ref="char:EOLhyphen"/>on, to keepe you from, or deliver you out of Warre, and
+<pb n="7" facs="tcp:130640:6"/>all other dangers while you are here, and from hence, in<g ref="char:EOLhyphen"/>to his hands of glorification and Salvation, to keepe you at his right hand for ever and ever hereafter: And till then, If it muſt be into his hands of affliction, into his hands onely, for that is but affliction; at no hand, into the hands of men, for that is deſtruction alſo.</p>
+            <p n="2">2. Thus King David expreſſes his wiſedome, and thus ſecondly, he expreſſes his piety: For herein he pitties his Subjects equally with himſelfe; yea, he preferres his ſub<g ref="char:EOLhyphen"/>jects to himſelfe, marke elſe what he ſayes, Behold I have ſinned, I have done wickedly, but theſe Sheepe alaſſe!
+<note place="margin">2. Sam. 24.17.</note> what have they done? let thy hand O lord I pray thee, be againſt me and my Fathers houſe.</p>
+            <p>And if hee would have ſacrificed himſelfe for their weale, in taking the fault ſolely upon himſelfe: Lord! what would he not have done, in redreſſing all grievan<g ref="char:EOLhyphen"/>ces, for their wellfare, and his owne to boot? Is it poſ<g ref="char:EOLhyphen"/>ſible for any Grand or Cloſe Committee of twenty five, or thirty, like that of <hi>Athens</hi> to have ſuch bowels of com<g ref="char:EOLhyphen"/>paſſion upon their fellow-ſubjects?</p>
+            <p>And that they might know it was no fraudulent polli<g ref="char:EOLhyphen"/>cy, and to ſecure them of all ſuch feares and jealouſies, he teſtifies his unfeigned piety in my text: When God ſent him the choyce of his three ſharpeſt arrowes, Fa<g ref="char:EOLhyphen"/>mine, Warre, or Plague: Behold, like a Father pitying his children, as every good King doth, hee declines the Famine, becauſe that would have pintcht but the pooreſt ſort, he had ſtorehouſes of proviſion for himſelfe, hee declines the Warre alſo, becauſe then onely the weakeſt ſhould have gone to the wall; he had Garriſons and tow<g ref="char:EOLhyphen"/>ers of ſtrength for his owne ſecurity, and makes choyce of the Plague, which is Epidemicall, and Impartiall, <hi>Et aequo pulſat pede pauperum tabernas, Regumque turres,</hi> and knowes no difference betwixt a poore mans Cottage, and a Princes Pallace: And yet it is the leaſt of theſe Evils, becauſe it is Impartiall, as Famine is not, becauſe it is not malicious as Warre is.</p>
+            <pb n="8" facs="tcp:130640:7"/>
+            <p>And this brings mee to my 2a. 1ae.
+<note place="margin">2a. 1ae. <hi>E malis mini<g ref="char:EOLhyphen"/>mum.</hi>
+               </note> or my firſt Reſolve, which ſayes, <hi>E malis minimum,</hi> of evills the leaſt is to be choſen.</p>
+            <p>But ſoft, at firſt ſight here I meete with a double ſtop, and it ſeemes that King <hi>David</hi> did not chuſe the leaſt of evills: For ſayes Saint <hi>Paul,</hi> It is a fearefull thing to fall into the hands of God;
+<note place="margin">Heb. 10.31.</note> nor doth this ſeeme to be the leaſt of evils,
+<note place="margin">Suſan 1.23.</note> for ſayes <hi>Suſanna,</hi> It is better for me to fall into your hands.</p>
+            <p>Yet now I thinke upon it, Theſe rubs are eaſily remo<g ref="char:EOLhyphen"/>ved; For Saint <hi>Paul</hi> there ſpeakes of contumacious ſin<g ref="char:EOLhyphen"/>ners, and conſiders God as a ſevere Judge, puniſhing pre<g ref="char:EOLhyphen"/>ſently and eternally; King <hi>David</hi> here ſpeakes of him<g ref="char:EOLhyphen"/>ſelfe, a true Penitent, and conſiders God as a mercifull Father, puniſhing here for a time, to prevent a puniſh<g ref="char:EOLhyphen"/>ment hereafter, and for ever: Fearefull for them to fall into the hands of God, but for us, if wee bee like King <hi>David,</hi> Hopefull; ſo <hi>Eſtius, David conſiderat Deum ut Patrem,
+<note place="margin">In locum.</note> in hoc ſaeculo punientem; Apoſtolus ut Judicem, in hoc &amp; futuro.</hi>
+            </p>
+            <p>Againe, King <hi>David</hi> here compares one evil of puniſh<g ref="char:EOLhyphen"/>ment with another evill of puniſhment, and ſo better to fall into the hands of God, and to chuſe the leaſt and eaſi<g ref="char:EOLhyphen"/>eſt, that we may avoyde a greater and heavier evill, <hi>Su<g ref="char:EOLhyphen"/>ſanna</hi> there compares the evill of ſinne with the evill of puniſhment, and prefers <hi>Maximum paenae minimo c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lpae,</hi> the greateſt evill of ſmart to the leaſt evill of fault; and ſo better to fall into the hands of man and ſuffer evill, then into the hands of God,
+<note place="margin">Rom. 3 8.</note> and doe evill; for wee may not doe evill though good may come of it, ſayes the Apoſtle, much leſſe may we doe ſinne to avovde paine, <hi>In malis pae<g ref="char:EOLhyphen"/>nae datur,
+<note place="margin">Juler.</note> in malis culpae non datur electio;</hi> ſo <hi>Lyra,</hi> and <hi>Pae<g ref="char:EOLhyphen"/>ter Martyr.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>. G.</hi>
+            </p>
+            <p>A potent faction will bring downe Lords as low as Commons, and the King as low as a Lord; to effect this, they do by a cunning head frame an oath without ſupreme
+<pb n="9" facs="tcp:130640:7"/>authority to maintaine an Army againſt that Army rayſed by ſupreme authority, or to introduce and preſerve a ſtrange Religion, not above 120. yeares old at moſt, thereby to extirpate a Church-government, which hath continued 1600. yeares without interruption, and foun<g ref="char:EOLhyphen"/>ded by the Apoſtles, at leaſt, ſo confeſt by the very adver<g ref="char:EOLhyphen"/>ſaries; to preſerve the Priviledges of Parliament, and li<g ref="char:EOLhyphen"/>berty of the Subject without limitation, but the Kings per<g ref="char:EOLhyphen"/>ſon and authority with limitations; all which is Treaſon by the Lawes of this Kingdome, and ſinne by the Law of God: (for none hath power to impoſe an oath but hee that hath power to draw the ſword, and that power is onely in the King:) And then doe with a violent hand force their fellow-ſubjects to take this Oath, or rather force it upon them under the penalty of plundering, im<g ref="char:EOLhyphen"/>priſonment, and penury.</p>
+            <p>In ſuch caſes as this, we muſt be ready, with the Prince of <hi>Coandy,</hi> when <hi>Charles</hi> the ninth of France offered him his choice, either to come to Maſſe, or be perpetually ex<g ref="char:EOLhyphen"/>iled or impriſoned; to Maſſe, quoth he, I will not come, for that is ſinne; impriſonment, or baniſhment, inflict, Sir which you pleaſe, I am ready to ſuffer it.</p>
+            <p>The noble Army of Martyrs ſpeake this aloud in the ſilent rethorique of their holy blood, That <hi>Maximum pae<g ref="char:EOLhyphen"/>nae malum potiùs eligendum, quàm minimum culpa;</hi> It is better going to Heaven in a fiery chariot, then to lye at eaſe in a ſinfull couch.</p>
+            <p>And nature it ſelfe teaches us equally with the Scrip<g ref="char:EOLhyphen"/>ture, in the Serpents wiſedome, to chuſe the leaſt of evils; he will expoſe his whole body to ſave his head; and when we are condemned, and may as we pleaſe make choyce of our puniſhment; the leaſt of evils is to be preferred, if we beleeve the wiſedome or piety of King <hi>David;</hi> ſo it ſtands uncontrouled. Let us now fall into the hands of God, and not into the hands of men; that was his ſuppli<g ref="char:EOLhyphen"/>cation, and my firſt part; this is his deprecation, and my ſecond part.</p>
+            <pb n="10" facs="tcp:130640:8"/>
+            <p>Let us not fall into the hands of men,
+<note place="margin">
+                  <hi>Pars</hi> 2.</note> ſo true hee is to his owne principles; Deliver me from the cruell man, O God, deliver me from the wicked man, O God: <hi>i. e.</hi> from all men: for howſoever man was created <hi>Homo homini Deus,</hi> a God to preſerve and helpe his neighbour; yet now he is degenerated in <hi>Homo homini lupus,</hi> and worſe, into <hi>Homo homini Daemon,</hi> and worſe yet, into <hi>Homo homi<g ref="char:EOLhyphen"/>ni homo,</hi> becauſe one man is worſe to another, then either Wolfe or Devill could or can be: It paſt the Devils arti<g ref="char:EOLhyphen"/>fice to contrive the Powder-plot; if the Jeſuit had not put it in his finger, it had never have been dreempt of, and it paſſed both the Devils, and Jeſuits cunning, when <hi>Juno</hi> rayſed a Typhon to rob <hi>Jupiter</hi> of his Nerves and Sinews; if the Puritan had not put in his head, it had never been voted, much leſſe executed.</p>
+            <p>And therefore I wonder not, that King <hi>David</hi> is ſo fre<g ref="char:EOLhyphen"/>quent in this kinde of Deprecation, <hi>Erue animam meam de manu canis,</hi>
+               <note place="margin">Authol.</note> Deliver mee from the hand, <hi>i. e.</hi> from the power of the Dogg; By this Dogg, <hi>Creſſolius</hi> tells us is meant the Devill, whom the Gentiles faigned to be <hi>Cer<g ref="char:EOLhyphen"/>berum tricipitem,</hi> the three headed Porter of Holl: Cer<g ref="char:EOLhyphen"/>tainely were they now amongſt us, they would ſay in their babling devotion, From factions Lords, and Rebel<g ref="char:EOLhyphen"/>lious Commons, and an Aſſembly of ſchiſmaticall Divines, deliver us O Lord.</p>
+            <p>I doe not ſay, From the Parliament, No, God forbid I ſhould, it is the greateſt and venerableſt Court under hea<g ref="char:EOLhyphen"/>ven; and too blame they were whoſoever they were, that called one <hi>Parliamentum indoctum,</hi> the unlearned Parlia<g ref="char:EOLhyphen"/>ment, another <hi>Parliamentum inſanum,</hi> or <hi>Phreneticum,</hi> the madd Parliament, and a third, <hi>Factioſum,</hi> or <hi>Phanati<g ref="char:EOLhyphen"/>cum,</hi> The ſchiſmaticall Parliament: For wee doe not al<g ref="char:EOLhyphen"/>wayes give denominations <hi>à majore,</hi> but ſometimes alſo, <hi>à meliore;</hi> and the loyalty and wiſedome of ſome Lords and Gentlemen, after they have ſuffered ſo much blood to be ſhed,
+<note place="margin">Cub.</note> may make <hi>this</hi> at laſt to bee called, The good Parliament; God grant it the beſt that ever was ſince
+<pb n="11" facs="tcp:130640:8"/>
+               <hi>Henry</hi> the firſt founded that honourably Aſſembly;
+<milestone type="tcpmilestone" unit="unspecified" n="1116"/> and if it were well remembred by them, that a King was the Founder of that great Court, certainely they would bee very carefull of giving a King occaſion to bee the Con<g ref="char:EOLhyphen"/>founder of it.</p>
+            <p>There were unlearned men in That, and Phrenetique men in the other, and Phanatick men the third; and there are, God increaſe the number of them, learned and loyall, good and great men in this.</p>
+            <p>And next to the hands of God, let me fall into the hands of a Parliament, ſo long as it remaines intire, and each party preſerve their owne priviledges, without entrench<g ref="char:EOLhyphen"/>ing one upon another, and not ſuffering a prevailing fa<g ref="char:EOLhyphen"/>ction to encroach upon the Prerogatives of Royalty, up<g ref="char:EOLhyphen"/>on the liberties of Loyalty, upon the eſſence of Epiſco<g ref="char:EOLhyphen"/>pacy; for then the people muſt expect no Religion in the Church, but what the prevayling Lords and Commons ſhall preſcribe them, no liberty in the State, no property in their Eſtates, but what the mercy of their Fellow-ſub<g ref="char:EOLhyphen"/>jects will allow them.</p>
+            <p>Hee is no true Engliſh man, that honours not, that feares not a true Parliament; for the happineſſe of peace is the perpetuall fruit of it, but ſuch a Parliament that crumbles it ſelfe into Conventicles, where a ſmall Com<g ref="char:EOLhyphen"/>mittee ſhall have power to make rich men Delinquents, and loyall men Malignants, and learned men both; for my part I neither feare nor honour, for the plague of per<g ref="char:EOLhyphen"/>petuall Warre is commonly the reward of it; and my prayer is, <hi>A perpetuo bello, &amp; perpetuo Parliamento li<g ref="char:EOLhyphen"/>bera regem Carolum, &amp; ſubditos ejus Domine;</hi> Let us fall into the hands of God, and not into the hands of men, for <hi>E malis maximum,</hi> Warre is the greateſt of evils.</p>
+            <p>It is my 2a, 2ae, aad my ſecond Reſolve,
+<note place="margin">2a. 2ae. <hi>E malis maxi<g ref="char:EOLhyphen"/>mum.</hi>
+               </note> and thus I un<g ref="char:EOLhyphen"/>dertake it: Peace is the greateſt of bleſſings, and therfore War is the greateſt of evils, peace is the greateſt of bleſ<g ref="char:EOLhyphen"/>ſings poſitively, and comparatively.</p>
+            <pb n="12" facs="tcp:130640:9"/>
+            <p>Firſt, Poſitively it is the greateſt of bleſſings; for it was the laſt legacy Chriſt bequeathed his Church, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as Saint <hi>Baſil</hi> calls it, his farewell gift, a gift including all he had given before, or promiſed after his departure; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a gift dropt from an high<g ref="char:EOLhyphen"/>er world then this we breath in,
+<note place="margin">Joh. 14.26</note> ſayes Saint <hi>Chryſoſtome. Peace I leave With you, my Peace I give unto you:</hi> Peace hee gave, knowledge he promiſed his Church, Peace hee gave before, knowledge he promiſed after his Aſcenſion, The holy Ghoſt whom the father <hi>will</hi> ſend in my name,
+<note place="margin">Joh. 14.27.</note> he <hi>ſhall</hi> teach you all things.</p>
+            <p>Our bleſſed Maſter therein telling us, peace muſt have the precedence and firſt place in our hearts: The beſt or<g ref="char:EOLhyphen"/>der certainely on earth, becauſe the onely order obſerved in Heaven: The firſt place there is given to the Angels of Peace, or Love; which are called <hi>Cherubim,</hi> the next to the Angels of Light or Knowledge, which are called <hi>Seraphim.</hi>
+            </p>
+            <p>But oh, the <hi>Enthuſiaſts</hi> of our age, as if they never meant to come thither, they doe moſt confuſedly invert the order, for they will firſt have <hi>light or knowledge,</hi> and that of Revelation; then <hi>Peace or love,</hi> and this to none but them of their faction neither: ſo croſſe are they to Chriſt, that though he doe, yet they doe not account peace the greateſt bleſſing poſitively.</p>
+            <p>Secondly, the greateſt yet it is, and that ſecondly com<g ref="char:EOLhyphen"/>paratively too; I will but run it over, my Wife is a bleſ<g ref="char:EOLhyphen"/>ſing, but without peace in danger of a Rape; my Childe is a bleſſing, but without peace in danger of a Pyke; my Wealth is a bleſſing, but without peace in danger of a Plunder; my Liberty is a bleſſing, but without peace in danger of a Reformation; my King the beſt of bleſſings, without peace is in danger of a Rebellion, and to be mi<g ref="char:EOLhyphen"/>ſtaken for an evill Counſellor.</p>
+            <p>That we may enjoy our Wives, our Children, our wealth, our Liberty, our Religion, our King; my prayer is, Give peace in our time O Lord, and let us fall into thy hands.</p>
+            <pb n="13" facs="tcp:130640:9"/>
+            <p>And becauſe peace is the greateſt of bleſſings, there<g ref="char:EOLhyphen"/>fore Warre is the greateſt of evills; the greateſt eſſenti<g ref="char:EOLhyphen"/>ally, and the greateſt effectually; the Devill is the Author of it, and deſtruction is the end of it: God feldome ſuf<g ref="char:EOLhyphen"/>fers it but for the greateſt ſinnes, Sacriledge and Rebel<g ref="char:EOLhyphen"/>lion: The Iſraelites never knew the miſery of Warre, untill they had provoked God by their inventions,
+<note place="margin">Joſh. 7.11, 12. 2 Sam. 15.21.</note> and <hi>Achans Sacriledge, and Abſolons Rebellion</hi> were not the leaſt of thoſe Inventions, nor the loweſt of thoſe pro<g ref="char:EOLhyphen"/>vocations, onely <hi>Jeroboams</hi> altering Religion,
+<note place="margin">1 Reg. 12 31.</note> and extir<g ref="char:EOLhyphen"/>pating the high Prieſthood (which was the Jewes Epiſ<g ref="char:EOLhyphen"/>copacy) and in their roome inſtituting the baſeſt and loweſt of the people for a Presbytery, was higher.</p>
+            <p>The beſt way therefore, as I conceive, for the Lords and Gentlemen of this Kingdome, to remove this Warre is to give <hi>God and Caeſar</hi> their owne, the Church her Pa<g ref="char:EOLhyphen"/>trimony, that is Gods due; and execution of Juſtice upon the Rebells, that is the Kings due.</p>
+            <p>And as Warre is the greateſt evill, in reſpect of the Author; ſo alſo in reſpect of the End, for it ſeldome ends but in ruine and deſolation: The Philiſtims warre put an end to <hi>Sauls</hi> life and Kingdome;
+<note place="margin">1 Sam. 31.5. 2. Reg. 10.7. 2. Reg. 17.23.</note> 
+               <hi>Jehues</hi> Warre ſwept a<g ref="char:EOLhyphen"/>way <hi>Achab</hi> and his poſterity: The <hi>Syrians</hi> Warre ſet a period upon <hi>Samaria;</hi> The <hi>Romans</hi> Warre gave a date to <hi>Jeruſalem:</hi> It was Warre that writ the ſad character, <hi>Jam ſeges eſt ubi Troja fuit;</hi> and as he reckoned up all evill men in <hi>Ingratum,</hi> ſo it may truely be ſaid of Warre, <hi>Si bellum dixeris &amp; omnia dixeris,</hi> for it is attended by ſpoyle and robbery, which never leaves pilfering untill it hath ſquez'd out that abundance, which the ſpunge of peace hath ſuck't up.</p>
+            <p>Would yon ſee a ſhort and ſmall Map of Warres mi<g ref="char:EOLhyphen"/>ſery; in a word take it thus, Imagine you ſee your Wives and Daughters raviſhed, your Infants toſſed upon Pykes or daſhed againſt the ſtones, your dead Parents dragged out of their quiet graves, your goodlieſt Cityes on a fla<g ref="char:EOLhyphen"/>ming fire, your houſes plundered, your bodies diſmem<g ref="char:EOLhyphen"/>bred,
+<pb n="14" facs="tcp:130640:10"/>your Lawes ſubverted, your Religion prophaned, your Churches defiled, and nothing to be heard or ſeene, but weeping and wayling with mournfull lamentation, one crying out <hi>Nulla ſalus bello,</hi> another, <hi>Heu miſeri qui bella gerunt;</hi> and tell mee then, yea tell me now, if it bee not high time to ſay and pray, <hi>Let us not fall into the hands of men, but let us fall into thy hands O God.</hi>
+            </p>
+            <p>The reaſon follows,
+<note place="margin">
+                  <hi>Pars</hi> 3.</note> which is my third part, <hi>For with the Lord is mercy;</hi> or <hi>The mercies of the Lord are great,</hi> reade which you pleaſe,</p>
+            <p>With the Lord is mercy: Firſt, ſometimes <hi>Promethean</hi> mercies,
+<note place="margin">Jona 3.4.</note> to prevent a threatned danger, ſo in the caſe of <hi>Niniveh;</hi> their danger was threatned, and themſelves ſummoned to deſtruction within forty dayes: but who can tell whether God will have mercy, if wee repent, and wee periſh not? They did repent, and God was mercifull, and they did not periſh: And here were <hi>Mi<g ref="char:EOLhyphen"/>ſerationes,</hi> bowells of mercy, yearning as a Father doth for his childes paſt miſcarriages, and keeping him from miſery.</p>
+            <p>Secondly, ſometimes <hi>Epimethean</hi> mercies, to deliver out of an emminent and preſent danger; ſo in the caſe of Jeruſalem,
+<note place="margin">2. Reg. 19.35.</note> the <hi>Aſſyrians</hi> beſieged them, and intended to ſtorme them the next morning; and behold, the ſame night the Beſiegers themſelves were all dead corpſes, and the Beſeiged were delivered: And here were <hi>Miſe<g ref="char:EOLhyphen"/>ricordiae,</hi> hands of mercy, pittying as a Father doth his childes preſent miſeries, and ſnatching him as a Brand out of the fire that he conſumes not.</p>
+            <p>But bee they <hi>Miſerationes,</hi> preventing mercyes, or bee they <hi>Miſericordiae,</hi> ſubventing mercies; They are <hi>Magnae</hi> in both reſpects, and each way very great.</p>
+            <p>Great certainely to <hi>David,</hi> when the men of <hi>Keilah</hi> in<g ref="char:EOLhyphen"/>tended to betray him into the hands of <hi>Saul,</hi> and he was miraculouſly preſerved.
+<note place="margin">1. Sam. 23.10.</note>
+            </p>
+            <p>Great certainely againe to <hi>David,</hi> when <hi>Abſolon</hi> by
+<pb n="15" facs="tcp:130640:10"/>a great Conſpiracy had ſurrounded him and his handfull of men, and he was miraculouſly delivered, and the con<g ref="char:EOLhyphen"/>ſpirators great Army as wonderfully deſtroyed,
+<note place="margin">2. Sam. 18.7.</note> not fewer then 20000. Rebells fell in that day.</p>
+            <p>So great are Gods mercies to his Anoynted ones, eſpe<g ref="char:EOLhyphen"/>cially when they are men after his owne heart, as King <hi>David</hi> was; He then either infatuates the Rebells heads in diſcovering their plots, or elſe hee intimidates their hearts in cowardiſing their executions, and catching them in the ſame net which they layde for others.</p>
+            <p>And are not his mercies as great to all the loyall ſub<g ref="char:EOLhyphen"/>jects of his Anoynted ones? <hi>Abiathar, Zadoc, Ahimaaz,
+<note place="margin">1. Sam. 22.23.</note> Ittai,</hi>
+               <note place="margin">2. Sam. 15 16.</note> and the reſt were all ſafe in their conſtancy to King <hi>David;</hi> whereas <hi>Joab</hi> the Lord Generall himſelfe, with all his followers were all deſtroyed when they re<g ref="char:EOLhyphen"/>volted to <hi>Adonijah.</hi>
+               <note place="margin">1. Reg 3.25.34.</note>
+            </p>
+            <p>And may not wee upon theſe promiſes make uſe of King Davids <hi>Amabaeum,</hi> and alſo make it our <hi>Refugium?</hi> O praiſe the God of Heaven, for his mercy endureth for ever; which delivered King <hi>Charles</hi> from the madneſſe of the people upon Jan. 10. 1641. for his mercy endu<g ref="char:EOLhyphen"/>reth for ever; which delivered King <hi>Charles</hi> and his loy<g ref="char:EOLhyphen"/>all Gentry from the treaſon of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and the roaring of the Canon at <hi>Edgehill,</hi> October 23. 1642. for his mercy endureth for ever; which delivered Queene <hi>Mary</hi> from the waves of the Sea, and the thundering of the Ordnance at <hi>Burlington,</hi> February 13. 1642. for his mer<g ref="char:EOLhyphen"/>cy endureth for ever; which delivered King <hi>Charles</hi> from the King-catchers at Oxford, when they were ſo wrathfully diſpleaſed at him, and as they thought had ſurrounded the City ſo ſecurely <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> : for his mercy endureth for ever; which delivered King <hi>Charles</hi> from the aſſaſſination of Maſter <hi>Hugh Peters</hi> and his fellow-levellers at Hampton Court, November 11. 1647. for his mercy endureth for ever. And many more, for his mercies have beene very great ever ſince, in maintaining us though our maintenance was taken from us, and had
+<pb n="16" facs="tcp:130640:11"/>beene greater from the beginning, and ſince, had not the Supineſſe of ſome (the worſt ſort of loyall Subjects) and the complyance of others (the worſt fort of Rebels) hindered.</p>
+            <p>Notwitſtanding that, wee may yet turne King <hi>Davids benedicite,</hi> into <hi>confidite,</hi> and ſay, O truſt in the God of Heaven,
+<note place="margin">Jud. 13.23.</note> for his mercys are great: For as <hi>Manoahs</hi> wife ſayd, If the Lord were pleaſed to kill us, hee would not have received a burnt offering at our hands, neither would he have ſhewed us all theſe things, nor would hee at this time have told us ſuch things as theſe.</p>
+            <p>Nor is the remembrance unſeaſonable at this time, or from this Text; though the Text and time bee both for Humiliation; for the end of humiliation is as well to fortifie our Faith, as to mortifie our fleſh; and to the ſtrengthening of our Faith bee it ſpoken; had God an intent to deliver up the King and our ſelves for a prey, he would not have given him and us ſo many deliveran<g ref="char:EOLhyphen"/>ces, nor have made of our enemies intentions ſo many diſcoveries.</p>
+            <p>Certainely his paſt favours are but pledges of his fu<g ref="char:EOLhyphen"/>ture;
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Sam. 17.36.</note> ſo King <hi>David</hi> grounded an aſſured victory over <hi>Goliah</hi> the Philiſtim Gyant, upon his former experience of overcomming the Lyon and the Beare; and now at this time his hope breathes after a good ſucceſſe in the hands of God, becauſe his mercies are great.</p>
+            <p>And becauſe in this choyce, upon this ground, he had an equall reſpect to his ſubjects with himſelfe; it there<g ref="char:EOLhyphen"/>fore followes, As the King ſtudies his ſubjects ſafety with the hazard of his health, ſo ſhould ſubjects endeavour the Kings ſafety with the hazard of their lives.</p>
+            <p>Which brings me to my 2a. 3ae. or my third Reſolve, which ſhewes <hi>Relatorum proximum,</hi>
+               <note place="margin">2a. 3ae. <hi>Re<g ref="char:EOLhyphen"/>latorum pro<g ref="char:EOLhyphen"/>ximum.</hi>
+               </note> and ſayes, That of all Relations that betwixt the King and Subjects is the neareſt, and thus I undertake it.</p>
+            <p>God hath diſpoſed ſeverall Relations amongſt man<g ref="char:EOLhyphen"/>kinde, one betwixt the Husband and Wife, a ſecond be<g ref="char:EOLhyphen"/>tweene
+<pb n="17" facs="tcp:130640:11"/>the Father and the Sonne; a third betweene the Maſter and the Servant; and a fourth betweene the King and the Subject.</p>
+            <p>But which of theſe relations is the neareſt, is not uni<g ref="char:EOLhyphen"/>verſally, though it may very eaſily be determined: Firſt, that betwixt Husband and Wife is ſacramentall; for it is <hi>per pactum &amp; faedus,</hi> by vow and covenant: Secondly, that betwixt the Father and the Sonne is naturall; for it is <hi>per ſemen &amp; ſanguinem,</hi> the Fathers nature gives Bee<g ref="char:EOLhyphen"/>ing to the Sonne, and his veynes are filled with his Fa<g ref="char:EOLhyphen"/>thers blood: Thirdly, that betwixt the Maſter and the Ser<g ref="char:EOLhyphen"/>vant is politicall; for it is <hi>per autoramentum,</hi> by Indenture, the Maſters head directs the Servants hand, and the Ser<g ref="char:EOLhyphen"/>vants hand feeds the Maſters head.</p>
+            <p>But this betwixt the King and Subject is all; Sacra<g ref="char:EOLhyphen"/>mentall, Naturall, and Politicall: Firſt, Sacramentall, for it is <hi>per dejurium,</hi> by the great Oath, we have ſworne to be loyall to him, and he hath ſworne to bee loving to us (and who but a faithleſſe Rebell will breake ſuch Oath?) Secondly, Naturall, for it is <hi>per haereditatem,</hi> by ſucceſſion; and he is, <hi>quâ King, Pater patriae,</hi> and we his Sonnes; The beſt blood wee have, and the beſt life wee lead, is, That we are ſubjects to ſo gracious a King; (and who but a graceleſſe Rebell will violate ſuch faith?) Thirdly, Politicall, for it is <hi>propter ſalutem,</hi> for preſerva<g ref="char:EOLhyphen"/>tion; <hi>Et quia ſervati per Regem, ergo ſervi Regis;</hi> and wee are therefore the Kings Servants becauſe the King is our preſerver, and next to God for our peace and plenty, thankes to the King: and at every Court-Leet, not an Engliſh man living but hee enters into this ſervice, and bindes himſelfe Apprentice, not for yeares, but for life: As the <hi>Comick</hi> hath it, <hi>Serva &amp; ſerviam,</hi> ſo long as the King denies us not protection, wee muſt yeeld him ſub<g ref="char:EOLhyphen"/>jection: None but anunthankefull Rebell will diſpute it, and therefore this betwixt the King and Subject, is the neareſt and ſtrongeſt of all Relations.</p>
+            <p>Nor is it ſo onely <hi>Formaliter,</hi> but alſo <hi>Firvaliter,</hi> and
+<pb n="18" facs="tcp:130640:12"/>the neareſt of all Relations it is, as well in the Effect, as the Efficient, God is the Author of it, and mutuall weale or woe is the End of it: The Wife may offend, and the Husband incurre no danger, the Sonne may tranſgreſſe and the Father never ſmart; the Servant may be bad and the Maſter never the worſe: but if the Subjects ſinne, the King periſhes:
+<note place="margin">1 Sam. 12.25.</note> If yee doe wickedly, both yee and your King ſhall periſh; there the King ſmarts for the ſubjects fault, and if the King ſinnes the ſubjects ſhall not goe ſcotfree; for here the King ſinnes and the ſubjects dye: King <hi>David</hi> numbers the people, and the people are di<g ref="char:EOLhyphen"/>miniſhed: the tranſgreſſion his, the deſtruction theirs.</p>
+            <p>Yet whether the cumbring of the people were meer<g ref="char:EOLhyphen"/>ly King <hi>Davids</hi> ſinne, or mixtly his and theirs, (for they might have intreated him to have forborne this muſter) or if his ſinne onely, yet whether it was not ſo his ſinne, as that it was alſo the ſubjects puniſhment for former ſinnes, is a queſtion amongſt Expoſitors: and in my weake judgement, If the people had not a hand in this par<g ref="char:EOLhyphen"/>ticular ſinne, yet their former ſinnes were the cauſe why God permitted his Annoynted to fall into this errour.</p>
+            <p>So the Chapter begins;
+<note place="margin">2 Sam. 24.1.</note> And the wrath of the Lord was kindled againſt Iſrael; againſt Iſrael, not againſt <hi>David;</hi> and becauſe it was kindled againſt Iſrael, therefore God moved <hi>David</hi> againſt them; or as the Margent expounds it, God permitted Satan; and ſo it is ſaid in the Regiſter, Satan ſtood up againſt Iſrael,
+<note place="margin">1 Cron. 21.7.</note> and provoked <hi>David</hi> to num<g ref="char:EOLhyphen"/>ber Iſrael.</p>
+            <p>Be it which it will, his or theirs; Saint <hi>Gregory</hi> is in the right;
+<note place="margin">Mor. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 25. cap. 20. and 23.</note> 
+               <hi>ſecundum merita ſubditorum, diſponuntur acta Regentium,</hi> the hearts of Soveraignes are diſpoſed by God according to the merits of their ſubjects.</p>
+            <p>And what was the merit, or rather demerit, of the ſub<g ref="char:EOLhyphen"/>ject at this time? <hi>Abſolons</hi> conſpiracy it could not be; for there dyed 20000 in that and for that; nor could it be King <hi>Davids</hi> adultery with <hi>Bathſheba:</hi> for that was pri<g ref="char:EOLhyphen"/>vate
+<pb n="19" facs="tcp:130640:12"/>and unknowne; it was then, certainely it was <hi>She<g ref="char:EOLhyphen"/>bas</hi> Rebellion, none ſuffered for that but <hi>Sheba</hi> himſelfe; many more were in that combination; and fit they ſhould ſmart for ſuch a ſinne, for God ſeldome ſuffers Rebellion to be unpuniſhed and goe to the grave in peace.</p>
+            <p>Yea, Maſter <hi>Calvin</hi> himſelfe tells us, <hi>Si piè regnent, ſum<g ref="char:EOLhyphen"/>ma eſt Dei benedictio; ſi in Apoſtaſiam aut Tyrannidem de<g ref="char:EOLhyphen"/>generent, flagella ſunt Domini ad punienda populi delicta,</hi> good Kings are nurſing Fathers and Gods bleſſings, badd Kings are Church-deſtroyers and Gods ſcourges.</p>
+            <p>I adde, good Kings may accidentally for a while ſeeme to be the peoples ſcourges, a good King may rayſe a taxe of Ship-money; King <hi>Solomon</hi> did ſo,
+<note place="margin">1 Reg. 10.22.</note> and ſeeke to eſta<g ref="char:EOLhyphen"/>bliſh an uniformity of Religion in all his Dominions; King <hi>Jehoſaphat</hi> did ſo;
+<note place="margin">2 Cron. 17.7.</note> and neither of theſe are in themſelves ſinnes, not Shipmoney, elſe aske the learned Judges, and let them aske their honeſt Forefathers: not uniformity in Religion, for the Church was never ſo happy as when all the Churchmen were of one accord;
+<note place="margin">Act 2.1.</note> nor the State neither, as when all the Stateſmen were like a City at u<g ref="char:EOLhyphen"/>nity in it ſelfe;
+<note place="margin">Pſa. 12 2.</note> when the Pavement deſired not to be the Roofe, nor the Weathercock the Foundation, nor the lower Hall the upper Parlor; but every ſtone was con<g ref="char:EOLhyphen"/>tent with his owne condition, in that place, where the Maſter-maſon had placed him.</p>
+            <p>Yet even from hence may bad ſubjects take occaſion to rebell; and ſo that which was no ſinne in the King is by wicked ſubjects made an occaſion of the higheſt ſinne in them.</p>
+            <p>And when people are come to the height of ſinne, Re<g ref="char:EOLhyphen"/>bellion, which admits no ſupreame, Sacriledge excepted: yet if we beleeve <hi>Optatus,</hi> and weigh Gods puniſhments, by the weight of puniſhment judging the height of ſin, we would not except that; for hee tells us, Rebellion is <hi>ſummum malorum,</hi> the ſinne <hi>Paramount,</hi>
+               <note place="margin">Gen. 4.115.</note> that hath no Peer: <hi>Caine</hi> for his <hi>Fratricide</hi> is but mark't, and ſo diſmiſt <hi>Niniveh</hi> that Sacrilegious City in ſtead of ruine,
+<note place="margin">Jona. 3.4.</note> hath a
+<pb n="20" facs="tcp:130640:13"/>warning;
+<note place="margin">Numb. 16.32.</note> but <hi>Corah</hi> and his complices for their Rebelli<g ref="char:EOLhyphen"/>on have a ſudden and ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chleſſe deſtruction; the earth coffins and buries them alive: Saint <hi>Auſten</hi> goes fur<g ref="char:EOLhyphen"/>ther, and charges the Dona<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſts Faction (and Faction is evermore the uſher to Rebellion) with the ſinne againſt the holy Ghoſt.</p>
+            <p>No wonder then if the wrath of the Lord be kindled; and a wonder it is to me, if when Gods wrath is kindled, and the King will hazzard himſelfe to preſerve his ſub<g ref="char:EOLhyphen"/>jects, the ſubjects be not againe reciprocally bound to preſerve the King with their owne hazzard.</p>
+            <p>Sure I am, Nature reſolves it ſo, Scripture reſolves it ſo, and not a <hi>Caſuiſt,</hi> not one, if my memory be right, is againſt it.</p>
+            <p n="1">1. For Nature, looke upon the Bees; they have a King if you beleeve <hi>Pliny;</hi>
+               <note place="margin">L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 11. c. 17.</note> and a guard is ever about his per<g ref="char:EOLhyphen"/>ſon, to preſerve him from a forraigne Invader, and a Do<g ref="char:EOLhyphen"/>meſtick Traytor; If the Hornet will make his way, yet he muſt dull his ſting upon the ſubject, that he may not hurt the King: <hi>Capitis eſt habenda ratio; quodlibet enim membrum naturae impulſu pro Capite vult perlclitari,</hi> ſayes <hi>Peter Martyr,</hi>
+               <note place="margin">2 Sam 18.3.</note> we muſt ſecure the King, as nature hath taught every member to endanger it ſelfe to pre<g ref="char:EOLhyphen"/>ſerve the head.</p>
+            <p n="2">2. And that is one Scripture reſolves this caſe, <hi>David</hi> the King having rebellious ſubjects riſen up in armes a<g ref="char:EOLhyphen"/>gainſt him, reſolves to goe in perſon againſt them: No Sir, it is not ſafe for you; for you nor for us neither, to goe into the battell; for if we flie away, they will not regard us, neither will they paſſe for us, though halfe of us be ſlaine; but now thou art better then ten thouſand of us.</p>
+            <p>Marke the Church-margent there (and it is the beſt Commentator upon the Text,) ſignifying hereby, that a good Governour ought to bee ſo deare unto his people, that they will rather looſe their lives then that ought ſhould come unto him.</p>
+            <pb n="21" facs="tcp:130640:13"/>
+            <p>And the moſt glorious Epitaph that ever <hi>Abiſhai</hi> had is That which the holy Ghoſt gives him, when hee reſcued King David from the hands of <hi>Iſhi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>benoh</hi> when he thought to have ſlaine <hi>David;
+<note place="margin">2 Sam. 21.17.</note> But Abiſhai the ſon of Zerviah ſuc<g ref="char:EOLhyphen"/>coured him</hi> and ſmote <hi>the Philiſtim, and killed him.</hi>
+            </p>
+            <p>Nor are his Courtiers without their monument of praiſe, for ſaying, Thou ſhalt not goe out with us to bat<g ref="char:EOLhyphen"/>tell, leſt thou quench the light of Iſrael; (Their glory it was that they had ſuch a revend eſteeme of the King, as to account him their light) <hi>For the glory and wealth of the country ſtandeth in the preſervation of the godly Magiſtrate,</hi> Lyes our Margent there.</p>
+            <p>
+               <hi>Non quod libet, ſed quod licet, laus eſt facere;</hi> ſo it ought to be, though there were no other reaſon, but this very piety of the King; that hee ſupplicates the hands of God, as well for his ſubjects ſafety as his owne, becauſe the mercies of the Lord are great; and deprecates the hands of men, becauſe their hands are cruell hands, be<g ref="char:EOLhyphen"/>cauſe their hands are ſacrilegious hands.</p>
+            <p>It is my fourth part, the reaſon of this Deprecation;
+<note place="margin">
+                  <hi>Pars</hi> 4.</note> But I have very little reaſon to ſpeake much of this; the very ſpeech of it being little leſſe then cruelty and ſacri<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>Firſt, a cruelty to your eares to heare, how Maſter <hi>Charles Nucomin,</hi> Parſon of Trinity Church in Colche<g ref="char:EOLhyphen"/>ſter, had his clothes torne off his back, and his Body beaten with Cudgells and Halberts.</p>
+            <p>To tell you how Sir <hi>John Lucas</hi> (now Lord <hi>Lucas</hi>) was impriſoned, his doores and walls battered, his win<g ref="char:EOLhyphen"/>dowes beaten downe, his gardens defaced, his Cattell driven away, his Evidences torne; the very Vault, wherein his Anceſtors were buryed, broken up, and the Coffins of the dead transfixt with Piſtolls and Hal<g ref="char:EOLhyphen"/>berts.</p>
+            <p>To tell you how Sir <hi>William Boteler</hi> of Kent was uſed and abuſed; his Stewards hands burnt, with Match and Candle, becauſe hee could not for his ig<g ref="char:EOLhyphen"/>norance,
+<pb n="22" facs="tcp:130640:14"/>or would not for his honeſty, betray his Maſters Treaſure.</p>
+            <p>To repeate theſe and many more, and many worſe then theſe, is a cruelty to your eares: Nor can it doe leſſe then fetch teares from your eyes to remember how Ma<g ref="char:EOLhyphen"/>ſter <hi>Yeomans</hi> and Maſter <hi>Bourchier</hi> of Briſtow, Maſter <hi>Tompkins</hi> and Maſter <hi>Challoner</hi> of London, and that ne<g ref="char:EOLhyphen"/>ver to be forgotten <hi>William</hi> late Archbiſhop of Canter<g ref="char:EOLhyphen"/>bury, were murthered for Traytors, but cannot other<g ref="char:EOLhyphen"/>wiſe bee remembred then, the Moſt glorious Mar<g ref="char:EOLhyphen"/>tyrs of this Inglorious Age: <hi>Qualia in tempora reſer<g ref="char:EOLhyphen"/>vaſti nos Domine?</hi>
+            </p>
+            <p>And having ſuch ſpeaking Preſidents, both of Clergy and Laytie, neither is that Prieſt nor that People worthy to live, who are afraid to dye in and for this cauſe: This cauſe, wherein God, the King, and the Church are equally involved.</p>
+            <p>Howſoever let it not bee told in after Ages, That ever the Engliſh hands were ſo cruell, as to outdoe the outrages of the Wilde-Iriſh, and all the Barbariſmes of the Gothes and Vandalls. I dare not commit further cru<g ref="char:EOLhyphen"/>elty upon your cares.</p>
+            <p>Secondly, Nor dare offer ſo much Sacriledge, upon your Devotion, as to tell you how Sacrilegious the hands of men have been upon holy Perſons, Times and Places.</p>
+            <p n="1">1. The holy places of Canterbury, Rocheſter, Chi<g ref="char:EOLhyphen"/>cheſter, Wincheſter, Weſtminſter, and Exceter Cathe<g ref="char:EOLhyphen"/>dralls; how have they turned thoſe houſes of God into Stables, for the Bodies of them, into Slaughter-houſes for the Chancells of them, into Butcher-rowes, for the Pulpits in them, into Chopping-boards for the Commu<g ref="char:EOLhyphen"/>nion tables; and the very Vaults, where lay the bones and aſhes of holy and royall men, into Draff-houſes; Ah! If theſe things goe on, where, where will God have a place of publique worſhip in England?</p>
+            <p n="2">2. For Holy Perſons, If Epiſcopacy bee extirpated, Root and Branch; what Prieſthood, or Miniſtry, call it
+<pb n="23" facs="tcp:130640:14"/>which you pleaſe, ſhall England have to juſtifie her ſelfe againſt Rome, and that other Thiefe of Geneva?</p>
+            <p>Wee have vindicated our ſelves againſt <hi>Rome,</hi> and tell the world, yes, and will juſtifie it, that impoſition of E<g ref="char:EOLhyphen"/>piſcopall hands is eſſentiall to the Ordination of the Cler<g ref="char:EOLhyphen"/>gy, and where it is wilfully wanting, there is no Apoſto<g ref="char:EOLhyphen"/>licall Church.</p>
+            <p n="3">3. For holy Times, if <hi>Annunciation-day,</hi> if <hi>Chriſtmaſſe-day,</hi> if <hi>Good Friday</hi> be forgotten, as they are already voted downe; how will our poore Poſterity ever minde the Incarnation, the Nativity, and Paſſion of our bleſſed Lord and Saviour? Or,
+<note place="margin">1 Tim. 1.15.</note> 
+               <hi>that ever Ieſus Chriſt came into the World to ſave them?</hi>
+            </p>
+            <p>Add but to this, the voting down of our Engliſh Liturgy, &amp; without that how ſhal our ſucceſſors be ever catechiſed into the beliefe of a <hi>Trinity in <g ref="char:V">Ʋ</g>nity, and <g ref="char:V">Ʋ</g>nity in Trinity?</hi> Where, where is it to be plainely learnt, but in the Col<g ref="char:EOLhyphen"/>lect for that day, and in the Creed of holy <hi>Athanaſins?</hi> And without believing that, how ſhall our poore children be ſaved? Truely me thinkes the Lords and Gentlemen ſhould have ſome care of their ſalvation.</p>
+            <p>I dare not commit further cruelty or ſacriledge upon your eares or hearts: Only, if ſuch men there be, whoſe hands have beene ſo cruell and ſacrilegious; you will, I am confident, you will give up the verdict of a <hi>Billa vera,</hi> upon my 2a. 4a, and my laſt reſolve, which ſayes,</p>
+            <p>That ſuch men are <hi>virorum peſſimi,</hi>
+               <note place="margin">2ae. 4ae. Viro<g ref="char:EOLhyphen"/>rum peſſimi.</note> the very worſt ſort of men; <hi>Quoderat demonſtrandum;</hi> but need no other proofe then your conſent.</p>
+            <p>So I paſſe from the explication to the Application of my Text: The firſt is inquiſitive, and asketh,
+<note place="margin">
+                  <hi>Appli.</hi> 1.</note> 
+               <hi>ut in manns ho<g ref="char:EOLhyphen"/>minum incidimus;</hi> how and by what meanes wee are fal<g ref="char:EOLhyphen"/>len into ſuch cruell hands, into ſuch ſacrilegious hands? Our ſinnes you will not deny, are the provoking cauſe; yes, our ſinnes are, and every one of us muſt ſay with that Prophet, <hi>Propter me hac tempeſtas,</hi> I am the cauſe of this ſtorme; and <hi>I</hi> pray God give us all, and every one of us
+<pb n="24" facs="tcp:130640:15"/>grace, every one of us Perſonally, and all of us National<g ref="char:EOLhyphen"/>ly to repent of our ſinnes, that this ſad ſentence may be revoked: (If you expect the politique cauſe, I dare not be too inquiſitive, leſt my ſelfe be brought under an inqui<g ref="char:EOLhyphen"/>ſition.)</p>
+            <p>For all war is a plague; but Civill War is the greateſt of all plagues; yet as great as it is, ſome eaſe it would be if wee knew where to lay the blame of it; And it is my miſery, that I dare not determine, whether <hi>Yorke</hi> or <hi>London</hi> did be get it, whether the King or ſome body elſe muſt father it; no, I dare not; but you my brave Chriſti<g ref="char:EOLhyphen"/>an Lords, Gentlemen and others, who have not loſt your Religion and reaſon, your courage and conſcience, may: And I may without feare of an inquiſition propoſe a Rid<g ref="char:EOLhyphen"/>dle, aske a queſtion, anſwer it, and unriddle it who pleaſes.</p>
+            <p>Where then was the firſt guard? Where the firſt Com<g ref="char:EOLhyphen"/>mittees? Where the firſt Commiſſioners for raiſing men, Ammunition, and money? Where the firſt denyall of a legall and juſt proceeding upon Delinquents? Upon reall Delinquents, not imaginary; who the firſt intruder upon the others Rights by force and armes? Who the firſt Sea<g ref="char:EOLhyphen"/>zor upon the others ſtrength by Sea and Land? Who firſt raiſed that Devill, the <hi>Militia,</hi> and would never lay him againe? Who firſt raiſed an Army to fetch up evill Coun<g ref="char:EOLhyphen"/>cellours? Who firſt did, and ſtill doe avert all honoura<g ref="char:EOLhyphen"/>ble motions of peace?</p>
+            <p>Hee that can undoe this knot, may eaſily ſay, who was the Father of this war: None elſe will ſo carefully nurſe the childe; and upon his, or their skoare muſt all the Rapines and robberies, all the murthers and bloodſhed of this preſent Civill War be layed, when God ſhall make inquiſition for this blood; and there let it reſt for me.</p>
+            <p>Unleſſe to theſe you will joyne thoſe feareleſſe ſonnes of their Grandſires imprecations; one whereof was this.</p>
+            <p>Diſſpate thou, O God, the Counſells of ſuch as de<g ref="char:EOLhyphen"/>ceitfully travell to ſtirre the hearts of the Inhabitants of ei<g ref="char:EOLhyphen"/>ther Realme againſt the other; let their malitious practiſes be their owne confuſion.</p>
+            <pb n="25" facs="tcp:130640:15"/>
+            <p>If this fright them not into Loyallty and obedience, let them not be offended, if I believe, they are therefore cal<g ref="char:EOLhyphen"/>led <hi>Scoti, quaſi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, becauſe they ſit in darkeneſſe, and in the ſhaddow of death: <hi>Non veniet anima mea in conſilium corum,</hi> and my prayer is, and hope I you will joyne with me in it.</p>
+            <p>Let us no longer fall into, nor under the hands of men, of ſuch cruell men, of ſuch ſacrilegious men; but into thy hands O God, for his ſake, whoſe hands were ſtret<g ref="char:EOLhyphen"/>ched upon the croſſe for us, Jeſus Chriſt, Amen.
+<note place="margin">
+                  <hi>Appli.</hi> 2</note>
+            </p>
+            <p>And <hi>ut incidamus in manus Domini,</hi> how wee may fall in<g ref="char:EOLhyphen"/>to the hands of God, my next Application is to tell you, and to obtaine this favour, to fall into Gods hands, wee muſt make uſe of our owne hands.
+<note place="margin">1 Tim. 2.8.</note>
+            </p>
+            <p>In the words of St. <hi>Paul, levantes puras manus,</hi> lifting up pure hands: And theſe in the expoſition either of S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Ambroſe,</hi> who reades, <hi>ſanctas manus,</hi> holy hands, and ho<g ref="char:EOLhyphen"/>ly hands they be, <hi>quando cor mundum eſt,</hi>
+               <note place="margin">Eſay. 1.15.</note> when the heart is cleane, <hi>&amp; ſanctas attollimus manus,</hi>
+               <note place="margin">Eſay. 59.3.</note> and holy hands wee lift up, when they are cleane from ſlaughter, blood, and cruelty; when they are free from Rapines, Robberies, and bribes, <hi>&amp; in omnibus bonis exercitatas, ad Elcemoſynas inprimis effuſas,</hi> when they are exerciſed in all good works, eſpecially in Almes.</p>
+            <p>Or of <hi>Cornelius a Lapide, puras levantes manus tum corpo<g ref="char:EOLhyphen"/>raliter eas abluendo, ut Judaei, tum spiritualiter ab irâ, &amp;c.</hi> Pure hands wee lift up when wee keepe them cleare from wrath and revenge, from <hi>Militia</hi> and <hi>Malitia,</hi> and all other filthineſſe; <hi>Ac per Elcemoſynas ſervando plenas,</hi> and keeping them full of charity.</p>
+            <p>Or of <hi>Janſenius,</hi> would you fall into Gods hands,
+<note place="margin">Eccleſ. 39.</note> as <hi>David</hi> did? Why then you muſt be as <hi>David</hi> was; and what was <hi>David?</hi> Why <hi>David</hi> was <hi>validus manu,</hi> (the very ſignification of his name it is) ſtrong of hand, <hi>&amp; va<g ref="char:EOLhyphen"/>lidus manu eſt, qui validè ad dandum extendit manum,</hi> he is ſtrong of hand, who freely gives to the poore, and is full fraught with charity.</p>
+            <pb n="26" facs="tcp:130640:16"/>
+            <p>And how many objects of charity there are, the poore Gentry, the poorer Clergy, and the pooreſt Sculdiery ſpeake aloud; the poore Gentry and Clergy, that are a<g ref="char:EOLhyphen"/>ſhamed to make their wants knowne, and dare not doe worſe; men that heeretofore have beene more bleſſed in giving (for they know it a more bleſſed thing to give) and would not now be altogether unbleſt for want of recei<g ref="char:EOLhyphen"/>ving,
+<note place="margin">Pſal. 41.11.</note> and the ſureſt way for your ſelves to be bleſt is, to conſider the poore and needy, as the Pſalmiſt ſpeakes, and not put them to the impudence to beg; conſider them therefore, and at once bleſſe them, and bee bleſt your ſelves.</p>
+            <p>The poore Souldiers, whoſe diſmembred bodies, whoſe ſtormed backs, whoſe ſtarved bellies are Rethorique e<g ref="char:EOLhyphen"/>nough to perſwade any Chriſtians, who have <hi>Philemons</hi> bowells of compaſſion, to refreſh ſuch Saints.</p>
+            <p>And when you have done this,
+<note place="margin">Serm. 93. de Temp.</note> hearke what St. <hi>Auſten</hi> ſaieth; <hi>Adverſarios ſi volumus vincere, manus noſtra, i.e. actus noſtri ſint in Coelo, non in terris;</hi> would you overthrow your enemies? then let your hands, <hi>i.e.</hi> your converſati<g ref="char:EOLhyphen"/>on be in heaven,
+<note place="margin">Math. 5.45.</note> untill you are like your heavenly Father; nor are you ever ſo like him, as when you are mercifull, as when you are charitable: Be yee mercifull as your Father which is in Heaven is mercifull.</p>
+            <p>Hearke againe what holy <hi>Ephraem</hi> ſaieth, <hi>Expauſione ma<g ref="char:EOLhyphen"/>nus in oratio noſtra quaſi arcu armetur;</hi> let your prayer bee armed with a Bow by the lifting up of your hands; but let the arrow of charity be ſhot out of that Bow, if you intend to hit your enemies.</p>
+            <p>Or would you have peace with your enemies, and not victory over them? It is every good mans deſire; why, charity I muſt tell you, is the beſt way for this too; nor will this time of humiliation ever be compleate and per<g ref="char:EOLhyphen"/>fected to an Accommodation, untill your repentance, like a glorious Bride is led to Church by the hands of faith and charity to her Groome; in this dreſſe, as <hi>Eſter</hi> in her roy<g ref="char:EOLhyphen"/>all apparrell found favour with <hi>Ahaſnerus,</hi> ſhall your re<g ref="char:EOLhyphen"/>pentance
+<pb n="27" facs="tcp:130640:16"/>finde favour, and obtaine helpe of God in time of neede.</p>
+            <p>Thus, thus ſhall the peace of God dwell in your hearts; and when the peace of God is within, you may be confi<g ref="char:EOLhyphen"/>dent the other peace will not be long without.</p>
+            <p>This, this is the beſt way that I know, how wee may fall into Gods hands; even by lifting up pure hands to God, and charitable hands to Gods ſervants: So ſhall we have peace with, or victory over them that are riſen up a<g ref="char:EOLhyphen"/>gainſt us.</p>
+            <p>And my prayer is, Almighty God, take us out of the hands of men, out of their cruell hands, out of their ſacrilegious hands, and take us into thine owne hands, into thine owne mercifull hands, and as a pledge thereof, give us what thou requireſt of us, ho<g ref="char:EOLhyphen"/>ly hands to appeaſe thee, and charitable hands to appeaſe the poore, that ſo wee may have peace with, or victory o<g ref="char:EOLhyphen"/>ver thine and our enemies, for his ſake, who hath already given us victory over our ſpirituall enemies, and will here<g ref="char:EOLhyphen"/>after over our eternall enemies, Jeſus Chriſt our Lord: To whom with the Holy Ghoſt, three Perſons, one immortall only wiſe God, be aſcribed all Honour, Praiſe, and Power now, and for ever: Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
